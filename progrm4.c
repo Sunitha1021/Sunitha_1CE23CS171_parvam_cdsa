@@ -9,4 +9,6 @@ int main()
     printf("%c \n",c);
     double d=10.233378457;
     printf("%f \n",d);
+    char s[]="hello";
+    printf("%s \n",s );
 }
